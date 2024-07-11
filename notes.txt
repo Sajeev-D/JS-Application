@@ -1,0 +1,6 @@
+- You can download parcel to convert the scss files to a css file.
+- You can create the package.json file by using the npn init command.
+- I created shortcut functions called start and build in the json file.
+
+1. L289 - Creating json and using API functions.
+2. L290 - Rendering the data from API onto the webpage.
